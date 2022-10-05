@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
                 foodList.add(edit.text.toString())
                 edit.text.clear()
             }
+
         }
     }
 }
