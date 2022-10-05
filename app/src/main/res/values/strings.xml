@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">W1D2</string>
+    <string name="app_name">Dinner Decider</string>
+    <string name="decide">Decide</string>
 </resources>
